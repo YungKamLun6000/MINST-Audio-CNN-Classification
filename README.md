@@ -13,3 +13,4 @@ Evaluation:
 
 The model is validated on a separate validation set.
 
+<img width="1177" height="706" alt="image" src="https://github.com/user-attachments/assets/a27d84de-88c0-499b-9a28-b1e59e2cd8a7" />
